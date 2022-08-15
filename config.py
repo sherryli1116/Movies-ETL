@@ -1,0 +1,1 @@
+POSTGRES_PASSWORD = 'Sherry1996'
